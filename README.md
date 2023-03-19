@@ -13,7 +13,7 @@ This Project was buiilt with HTML, CSS and JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://qusai122.github.io/Portfolio/)
+- [Live Demo Link](https://qusai122.github.io/tap-assignment/)
 
 👤 **Author**
 Qusai Issa
