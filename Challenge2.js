@@ -15,7 +15,7 @@ return total-sum;
 }
 
 
-let arr = [ 1, 2, 3, 0 ];
+let arr = [ 3,2,1];
 
 // Function call
 let miss = findMissing(arr);
