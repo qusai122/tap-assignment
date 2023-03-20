@@ -15,10 +15,9 @@ return total-sum;
 }
 
 
-let arr = [ 3,2,1];
+let arr =  [9,6,4,2,3,5,7,0,1]
 
 // Function call
 let miss = findMissing(arr);
 console.log(miss)
-document.write(miss);
 
